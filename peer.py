@@ -1,5 +1,5 @@
 ##
-#  Very early version of the chatter thing.
+#  Early test code for Parseltongue.
 #
 #  Author: Prashant vasudevan
 #  
